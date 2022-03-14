@@ -15,7 +15,8 @@ As digitally connected people ham log har second main tonns of data produce kar 
 **For example:**\
 Ap bazar se suit purchase karnay jatay hyn or wahan jis shop per jatay hyn us ko ap k regular customer hnay ki wajah se ap ki preference k related bht c batain pata hun ge. 
 
-![Suit](resources/suit.jpg)
+<!-- ![Suit](resources/suit.jpg) -->
+<img src="resources/suit.jpg" alt="drawing" style="width:500px;"/>      <img src="resources/suit2.jpeg" alt="drawing" style="width:500px;"/>
 
 Jaisa k ap yehi samajh len k usay pata ho ga k aap ko red color pasand nahi hy. Is previous history ki base per woh koshish kare ga k ap ko red color ka suit na dikhaye or aaap ko doosray colors dikhaye, woh dukandar na chahtay huay b apnay dimag main predictive modeling kar raha hy. 
 
