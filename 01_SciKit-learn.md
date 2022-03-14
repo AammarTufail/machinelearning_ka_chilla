@@ -8,7 +8,9 @@
 Machine learaning aik **predictive modeling** ka doosra naam hy. Ab ap bethay soch rahay hun k pehlay Machine learning samjha do yar baad main Predictive modeling bta dena. or mera jawab hy k Machine Learning or predictive modeling dono aik ki cheez k naaam hy.
 
 > _**Shugal-1:**_\
->  Mera dost **Nasir** bus main ja raha tha rastay main daakoun ne bus lootna shuru kar di, sab se saman loot rahay thay k aik orat se saman lootnay walayt daako ne poocha ap ka naam kia hy, woh Kehti, **Kausar**, daako kehta baji ap apna saman rakh lo main ap ko nahi lootun ga, q k meri behan ka naam b kausar hy. Nasir ki bari aye tu usay daako kehta "Tumhara kia naaam hy", Nasir agar se kehta k naaam tu mera Nasir hy magar payar se ghar main mjhy **"Kausar! Kausar Kehtay hy"**.  
+>  Mera dost **Nasir** bus main ja raha tha rastay main daakoun ne bus lootna shuru kar di, sab se saman loot rahay thay k aik orat se saman lootnay walayt daako ne poocha ap ka naam kia hy, woh Kehti, **Kausar**, daako kehta baji ap apna saman rakh lo main ap ko nahi lootun ga, q k meri behan ka naam b kausar hy. Nasir ki bari aye tu usay daako kehta "Tumhara kia naaam hy", Nasir agar se kehta k naaam tu mera Nasir hy magar payar se ghar main mjhy **"Kausar! Kausar Kehtay hy"**. 
+> 
+<img src="resources/bus.jpg" alt="drawing" style="width:750px;"/>
 
 ### Introduction
 
