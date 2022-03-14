@@ -1,6 +1,6 @@
 <!-- [Scikit-learn](resources/scikit-learn-logo.png) -->
-<img src="resources/scikit-learn-logo.png" alt="drawing" style="width:375px;"/>
-<img src="resources/codanics_logo.png" alt="drawing" style="width:250px;"/>
+<img src="resources/scikit-learn-logo.png" alt="drawing" style="width:120px;"/>
+<img src="resources/codanics_logo.png" alt="drawing" style="width:75px;"/>
 
 # **Scikit-learn for Machine Learning in Python**
 
