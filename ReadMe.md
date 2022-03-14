@@ -1,6 +1,6 @@
 # This repository will be updated on daily basis based on the live zoom sessions and course content of the following course:
 
-![MachineLearning ka Chilla](resources/ml1.png)
+![MachineLearning ka Chilla](resources/ml_1.png)
 
 ---
 How to joinl:
