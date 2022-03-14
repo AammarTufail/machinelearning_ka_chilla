@@ -12,7 +12,7 @@ Is notebook ko agar ap ne parhna strt kar hi lia hy tu end tak zaroor parheay ga
 As digitally connected people ham log har second main tonns of data produce kar rahay hyn jo dunia k baray baray players like Google, Facebook, Amazon etc.. utilize kar k un se prediction generate kartay hyn and hamen sirf hamari history k provided data ki base per hi future predictions ati hyn.
 
 ---
-**For example:**\
+**مثال کے طور پر:**\
 Ap bazar se suit purchase karnay jatay hyn or wahan jis shop per jatay hyn us ko ap k regular customer hnay ki wajah se ap ki preference k related bht c batain pata hun ge. 
 
 ![Suit](resources/suit.jpg)
