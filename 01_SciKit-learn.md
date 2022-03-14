@@ -1,4 +1,7 @@
-![Scikit-learn](resources/scikit-learn-logo.png)
+<!-- [Scikit-learn](resources/scikit-learn-logo.png) -->
+<img src="resources/scikit-learn-logo.png" alt="drawing" style="width:375px;"/>
+<img src="resources/codanics_logo.png" alt="drawing" style="width:250px;"/>
+
 # **Scikit-learn for Machine Learning in Python**
 
 Ye complete notebook sirf Scikit-learn ko deal kare ge jis main Predictive modelling ya machine learning k algorithms ko Scikit-learn library k sath seekhen gay.
