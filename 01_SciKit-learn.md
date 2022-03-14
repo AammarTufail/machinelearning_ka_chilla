@@ -18,4 +18,11 @@ Same isi example ki trah dunia ki bari companies ap ko sirf woh dikhati hyn jo a
 
 ---
 
+Is notebook main code maine aisay likhay hyn ap top right corner per copy k optio se copy kar saktay hyn pooray cell ko.
+
+```
+pip install scikit-learn 
+```
+
+
 
