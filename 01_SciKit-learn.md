@@ -9,7 +9,7 @@ Is notebook ko agar ap ne parhna strt kar hi lia hy tu end tak zaroor parheay ga
 
 
 ## **Introduction**
-As digitally connected peopel ham log har second main tonns of data produce kar rahay hyn jo dunia k baray baray players like Google, Facebook, Amazon etc.. utilize kar k un se prediction generate kartay hyn and hamen sirf hamari history k provided data ki base per hi future predictions ati hyn.
+As digitally connected people ham log har second main tonns of data produce kar rahay hyn jo dunia k baray baray players like Google, Facebook, Amazon etc.. utilize kar k un se prediction generate kartay hyn and hamen sirf hamari history k provided data ki base per hi future predictions ati hyn.
 
 For example:\
 Ap bazar se suit purchase karnay jatay hyn or wahan jis shop per jatay hyn us ko ap k regular customer hnay ki wajah se ap ki preference k related bht c batain pata hun ge. Jaisa k ap yehi samajh len k usay pata ho ga k aap ko red color pasand nahi hy. Is previous history ki base per woh koshish kare ga k ap ko red color ka suit na dikhaye or aaap ko doosray colors dikhaye, woh dukandar na chahtay huay b apnay dimag main predictive modeling kar raha hy. 
@@ -18,17 +18,17 @@ Same isi example ki trah dunia ki bari companies ap ko sirf woh dikhati hyn jo a
 
 ---
 
-Is notebook main code maine aisay likhay hyn ap top right corner per copy k optio se copy kar saktay hyn pooray cell ko.
+Is notebook main code maine aisay likhay hyn ap top right corner per copy k option se copy kar saktay hyn pooray cell ko.
 
 > This is how you install Scikit-learn library in python
-```python
+```py
 pip install scikit-learn 
 ```
 
 Apple users can use:
 
-```python
-pip3 install scikit-learn 
+```py
+pip3 install scikit-learn
 ```
 
 
